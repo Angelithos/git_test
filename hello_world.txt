@@ -1,0 +1,4 @@
+El siguiente código es un ejemplo clásico conocido como "Hello World".
+Su propósito principal es mostrar cómo imprimir un mensaje simple en pantalla,
+sirviendo como introducción básica a la sintaxis y estructura de un lenguaje de programación.
+Es común utilizar este ejemplo para verificar que el entorno de desarrollo está correctamente configurado y funcionando.
